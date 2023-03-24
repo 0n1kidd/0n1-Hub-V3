@@ -26,7 +26,7 @@ end
 
 function BBS()
 
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/0n1kidd/0n1-Hub-V3/main/Broken%20Bones%20IV"))()
+    loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/0n1kidd/0n1-Hub-V3/main/Broken%20Bones%20IV"))()
 
 end
 
